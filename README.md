@@ -7,7 +7,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ![image](https://github.com/maryamyounis/maryamyounis.github.io/assets/102765727/f3f48c49-c927-4f8a-81fe-f6398f42cfb5)
 
 
-##Activity 2
+## Activity 2
 
 ![image](https://github.com/maryamyounis/maryamyounis.github.io/assets/102765727/f729ef6e-c8ec-4300-8969-a391a59213f3)
 
