@@ -1,3 +1,7 @@
+img {
+  object-fit: cover;
+}
+
 .profile-pic {
   position: relative;
   max-width:130px;
